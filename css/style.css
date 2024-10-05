@@ -40,14 +40,14 @@ img {
 }
 
 .product-info {
-  padding: 1.4rem;
+  padding: 2rem;
   width: 50%;
 }
 
 .product-info > span {
   color: var(--Dark-grayish-blue);
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
   font-size: 0.7rem;
 }
 
@@ -61,7 +61,7 @@ img {
 
 .product-info p {
   color: var(--Dark-grayish-blue);
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.6;
   margin-bottom: 1rem;
 }
