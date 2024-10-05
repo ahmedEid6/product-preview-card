@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Design Screenshot](./screenshot.png)
+[Design Screenshot](./Screenshot.png)
 
 ### Links
 
