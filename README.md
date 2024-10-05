@@ -13,11 +13,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Screenshot](./screenshot.png)
+[Design Screenshot](./screenshot.png)
 
 ### Links
 
-- [Code]([https://your-solution-url.com](https://github.com/ahmedEid6/product-preview-card))
+- [Code](https://github.com/ahmedEid6/product-preview-card)
 - [Live](https://ahmedeid6.github.io/product-preview-card/)
 
 ## My process
